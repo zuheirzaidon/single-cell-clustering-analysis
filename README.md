@@ -24,9 +24,9 @@ flowchart TD
 
 ## Notebooks
 
-- `01_qc_preprocessing.ipynb — quality control, filtering, normalisation`
-- `02_clustering_marker_genes.ipynb — HVGs, PCA, UMAP, Leiden clustering, marker genes`
-- `03_annotation_interpretation.ipynb — marker inspection and early-stage biological interpretation`
+- `01_qc_preprocessing.ipynb` — quality control, filtering, normalisation
+- `02_clustering_marker_genes.ipynb` — HVGs, PCA, UMAP, Leiden clustering, marker genes
+- `03_annotation_interpretation.ipynb` — marker inspection and early-stage biological interpretation
 
 ## Key concepts
 
